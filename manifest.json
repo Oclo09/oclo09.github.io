@@ -7,8 +7,8 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/images/icon-192.png",
-      "sizes": "192x192",
+      "src": "img/starship.png",
+      "sizes": "190x91",
       "type": "image/png"
     }
   ]
